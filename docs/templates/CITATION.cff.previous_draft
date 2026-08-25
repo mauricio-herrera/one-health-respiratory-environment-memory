@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the associated article and archived release."
+title: "One-Health respiratory-environment memory modeling: data and reproducibility release"
+type: dataset
+authors:
+  - family-names: "Herrera-Marín"
+    given-names: "Mauricio"
+date-released: 2026-08-25
+version: "1.0.0"
+repository-code: "TO_BE_ADDED_BEFORE_PUBLIC_RELEASE"
+abstract: >
+  Aggregated regional daily panel, frozen model outputs, prospective 2025
+  predictions, external validation metrics, and paired moving-block-bootstrap
+  results supporting a One-Health respiratory-environment memory analysis.

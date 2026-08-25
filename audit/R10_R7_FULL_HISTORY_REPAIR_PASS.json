@@ -1,0 +1,103 @@
+{
+  "status": "PASS_PROSPECTIVE_FULL_HISTORY_REPAIR_FIT_M0_M2_FROZEN_DISTINCT_2025_PREDICTIONS_READY_FOR_EXTERNAL_RESCORING",
+  "package_revision": "V18C_R4_R10_R7_20260825S",
+  "historical_grid": {
+    "rows": 35072,
+    "days": 2192,
+    "units": 16
+  },
+  "projection_grid": {
+    "rows": 4015,
+    "days": 365,
+    "units": 11
+  },
+  "fit_audit": [
+    {
+      "model": "M0",
+      "train_rows": 35072,
+      "design_columns": 27,
+      "n_iter": 35,
+      "intercept": -7.131560244048343,
+      "nonzero_slope_count_exact": 27,
+      "max_abs_slope": 0.3096974076152291,
+      "l2_slope_norm": 0.7463057286760211,
+      "mean_predicted_rate_2025": 0.0007639486357101645,
+      "mean_predicted_count_2025": 1096.2887143152032
+    },
+    {
+      "model": "M1",
+      "train_rows": 35072,
+      "design_columns": 34,
+      "n_iter": 52,
+      "intercept": -7.122175652454591,
+      "nonzero_slope_count_exact": 34,
+      "max_abs_slope": 0.3059270277616404,
+      "l2_slope_norm": 0.7094801318222448,
+      "mean_predicted_rate_2025": 0.0007702523104808098,
+      "mean_predicted_count_2025": 1093.6881194282926
+    },
+    {
+      "model": "M2",
+      "train_rows": 35072,
+      "design_columns": 54,
+      "n_iter": 94,
+      "intercept": -7.125891139369765,
+      "nonzero_slope_count_exact": 54,
+      "max_abs_slope": 0.3113926248315772,
+      "l2_slope_norm": 0.7578633690561524,
+      "mean_predicted_rate_2025": 0.0007715132060147874,
+      "mean_predicted_count_2025": 1088.2625091218752
+    }
+  ],
+  "prediction_distinctness": [
+    {
+      "pair": "M1-M0",
+      "exact_equal": false,
+      "allclose_1e_12": false,
+      "max_abs_diff": 830.5256173452553,
+      "mean_abs_diff": 39.859986694235715,
+      "nonzero_count_exact": 4015,
+      "correlation": 0.997939246933958
+    },
+    {
+      "pair": "M2-M0",
+      "exact_equal": false,
+      "allclose_1e_12": false,
+      "max_abs_diff": 889.8958257607528,
+      "mean_abs_diff": 60.175323183712464,
+      "nonzero_count_exact": 4015,
+      "correlation": 0.9963894145600818
+    },
+    {
+      "pair": "M2-M1",
+      "exact_equal": false,
+      "allclose_1e_12": false,
+      "max_abs_diff": 710.3366243318642,
+      "mean_abs_diff": 51.27255408565017,
+      "nonzero_count_exact": 4015,
+      "correlation": 0.9974583991520352
+    }
+  ],
+  "all_nonzero_slopes": true,
+  "all_converged_before_max_iter": true,
+  "all_prediction_pairs_distinct": true,
+  "fit_recipe": {
+    "class": "PoissonRegressor",
+    "alpha": 1e-05,
+    "tol": 1e-10,
+    "max_iter": 800,
+    "fit_intercept": true,
+    "solver": "lbfgs",
+    "target": "urgent_respiratory_total / population",
+    "sample_weight": "population",
+    "prediction_count": "model.predict(X_2025) * frozen_2025_population"
+  },
+  "model_selection": false,
+  "tolerance_selection": false,
+  "historical_science_reopened": false,
+  "2025_health_read": false,
+  "2025_outcome_scored": false,
+  "M3": "DEFERRED_GRD_2025_NOT_YET_PUBLISHED",
+  "scientific_interpretation_authorized": false,
+  "next_stage": "V18C_R5_EXTERNAL_2025_RESCORING_WITH_REPAIRED_FULL_HISTORY_M0_M2"
+}

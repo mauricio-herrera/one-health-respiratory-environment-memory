@@ -1,0 +1,20 @@
+{
+  "package_revision": "PUBLICATION_RELEASE_V1_20260825A",
+  "release_name": "one-health-memory-publication-release-v1.0.0",
+  "build_date": "2026-08-25",
+  "historical_grid": {
+    "rows": 35072,
+    "days": 2192,
+    "units": 16
+  },
+  "external_2025_grid": {
+    "rows": 4015,
+    "days": 365,
+    "units": 11
+  },
+  "M0_M2_external_status": "CLOSED_SUPPLEMENTAL",
+  "M3_external_status": "DEFERRED_UNTIL_GRD_2025_AVAILABLE",
+  "manual_license_review_required": true,
+  "manual_author_review_required": true,
+  "public_release_gate": "COMPUTATIONAL_PASS_PENDING_MANUAL_EDITORIAL_LEGAL_REVIEW"
+}

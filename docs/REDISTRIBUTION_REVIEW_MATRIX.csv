@@ -1,0 +1,5 @@
+source_family,release_representation,raw_source_files_included,establishment_level_data_included,manual_rights_review_required,public_deposition_status
+SADU,Aggregated region-day urgent respiratory outcome for 2025; historical aggregate features may also be represented.,False,False,True,MANUAL_REVIEW_REQUIRED
+Historical health aggregates (GRD/DEIS-derived canonical features),Aggregated region-day health outcomes and/or lagged health-memory features in the canonical historical panel.,False,False,True,MANUAL_REVIEW_REQUIRED
+Environmental/climate data,Aggregated/standardized environmental predictors and memory features.,False,False,True,MANUAL_REVIEW_REQUIRED
+Population / vulnerability,Aggregated exposure and vulnerability variables.,False,False,True,MANUAL_REVIEW_REQUIRED

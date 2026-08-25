@@ -1,0 +1,4 @@
+comparison,regions_total,regions_improve_MAE,regions_improve_RMSE,regions_improve_deviance,regions_improve_all_three
+M1-M0,11,6,4,4,4
+M2-M0,11,7,7,6,6
+M2-M1,11,7,7,7,7

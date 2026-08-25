@@ -1,0 +1,25 @@
+{
+  "title": "REPLACE_WITH_FINAL_RELEASE_TITLE",
+  "upload_type": "dataset",
+  "description": "REPLACE_WITH_FINAL_DESCRIPTION",
+  "creators": [
+    {
+      "name": "REPLACE_FAMILY_NAME, REPLACE_GIVEN_NAMES",
+      "orcid": "REPLACE_IF_AVAILABLE",
+      "affiliation": "REPLACE"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-08-25",
+  "keywords": [
+    "One Health",
+    "respiratory health",
+    "environmental exposure",
+    "memory models",
+    "external validation"
+  ],
+  "access_right": "open",
+  "license": "DO_NOT_SET_UNTIL_MIXED_RIGHTS_REVIEW_IS_COMPLETE",
+  "related_identifiers": [],
+  "notes": "Use SOURCE_RIGHTS_LEDGER.csv and ZENODO_LICENSE_STRATEGY.md before finalising rights metadata."
+}

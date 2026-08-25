@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the associated article and archived release."
+title: "REPLACE_WITH_FINAL_RELEASE_TITLE"
+type: dataset
+authors:
+  - family-names: "REPLACE"
+    given-names: "REPLACE"
+    orcid: "https://orcid.org/REPLACE_IF_AVAILABLE"
+    affiliation: "REPLACE"
+date-released: 2026-08-25
+version: "1.0.0"
+repository-code: "REPLACE_WITH_GITHUB_URL"
+abstract: >
+  Aggregated regional daily panel, frozen model outputs, prospective 2025
+  predictions, external validation metrics, and paired moving-block-bootstrap
+  results supporting a One-Health respiratory-environment memory analysis.

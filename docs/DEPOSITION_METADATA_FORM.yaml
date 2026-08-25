@@ -1,0 +1,46 @@
+# Complete before creating the final GitHub/Zenodo release
+
+release_title: "One-Health respiratory-environment memory modeling: data and reproducibility release"
+version: "1.0.0"
+resource_type: "dataset"
+
+manuscript:
+  title: ""
+  journal_target: ""
+  doi: ""
+  status: "in preparation"
+
+creators:
+  - given_names: ""
+    family_names: ""
+    orcid: ""
+    affiliation: ""
+    corresponding: false
+
+contributors: []
+
+repository:
+  github_owner: ""
+  github_repository: ""
+  github_url: ""
+
+zenodo:
+  record_title: ""
+  description: ""
+  keywords:
+    - One Health
+    - respiratory health
+    - environmental exposure
+    - memory models
+    - external validation
+  license_strategy: "MIXED_SOURCE_RIGHTS_PENDING_FINAL_REVIEW"
+  custom_rights_text: ""
+  reserved_doi: ""
+
+funding:
+  statement: ""
+  grants: []
+
+contact:
+  name: ""
+  email: ""

@@ -1,0 +1,18 @@
+{
+  "status": "PASS_EXTERNAL_2025_M0_M2_SUPPLEMENTAL_RESULT_FROZEN_INFERENTIALLY_UNRESOLVED_M3_DEFERRED",
+  "package_revision": "V18C_R7_R2_20260825W",
+  "patch": "R7 comparison-index bug only; upstream R5/R6 unchanged",
+  "M0_M2_external_status": "CLOSED_SUPPLEMENTAL",
+  "M2_vs_M0_point_delta_MAE": -2.111675140418868,
+  "M2_vs_M0_point_delta_RMSE": -12.981953631615283,
+  "M2_vs_M0_point_delta_mean_poisson_deviance": -4.09488262959907,
+  "M2_vs_M0_regions_improve_all_three": "6/11",
+  "all_nine_95pct_block_bootstrap_CIs_include_zero": true,
+  "external_M0_M2_superiority_established": false,
+  "original_formal_success_gate": "M3",
+  "M3_gate_status": "DEFERRED_UNTIL_GRD_2025_AVAILABLE",
+  "EWS_claim_authorized": false,
+  "causal_claim_authorized": false,
+  "posthoc_tuning_authorized": false,
+  "mainline_next_state": "WAIT_FOR_GRD_2025_THEN_EXECUTE_FROZEN_M3_SEQUENTIAL_EXTERNAL_PROTOCOL"
+}

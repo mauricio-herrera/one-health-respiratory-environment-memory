@@ -1,0 +1,4 @@
+comparison,MAE_CI_below_zero,RMSE_CI_below_zero,deviance_CI_below_zero,all_three_CIs_below_zero,MAE_and_deviance_CIs_below_zero
+M1-M0,False,False,False,False,False
+M2-M0,False,False,False,False,False
+M2-M1,False,False,False,False,False

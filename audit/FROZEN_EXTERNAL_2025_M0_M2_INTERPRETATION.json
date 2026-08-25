@@ -1,0 +1,26 @@
+{
+  "M0_M2_external_status": "CLOSED_SUPPLEMENTAL",
+  "primary_external_2025_message": "M2 has lower pooled 2025 MAE, RMSE, and mean Poisson deviance than M0 and M1, but all paired 95% seven-day moving-block-bootstrap confidence intervals include zero. Therefore the pooled improvement is descriptive and uncertainty remains compatible with no loss difference.",
+  "M2_vs_M0": {
+    "point_deltas": {
+      "MAE": -2.111675140418868,
+      "RMSE": -12.981953631615283,
+      "mean_poisson_deviance": -4.09488262959907
+    },
+    "regions_improve_all_three": "6/11",
+    "bootstrap_conclusion": "ALL_THREE_95PCT_CIS_INCLUDE_ZERO",
+    "formal_external_superiority_claim": false
+  },
+  "interpretive_boundary": {
+    "M0_M2_result_role": "SUPPLEMENTAL_EXTERNAL_VALIDATION",
+    "original_formal_success_gate": "M3_ONLY",
+    "M3_gate_status": "DEFERRED_UNTIL_GRD_2025_AVAILABLE",
+    "M0_M2_result_does_not_count_as_M3_gate_failure": true,
+    "EWS_claim": false,
+    "causal_claim": false,
+    "weather_forecast_claim": false,
+    "model_retuning_authorized": false,
+    "post_hoc_model_selection_authorized": false
+  },
+  "mainline_next_state": "WAIT_FOR_GRD_2025_THEN_EXECUTE_FROZEN_M3_SEQUENTIAL_EXTERNAL_PROTOCOL"
+}

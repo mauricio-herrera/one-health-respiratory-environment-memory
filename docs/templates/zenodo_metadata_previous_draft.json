@@ -1,0 +1,25 @@
+{
+  "title": "One-Health respiratory-environment memory modeling: data and reproducibility release",
+  "upload_type": "dataset",
+  "description": "Clean aggregated publication-level data and reproducibility outputs for a regional One-Health respiratory-environment memory modeling study, including historical 2019–2024 analyses and supplemental external 2025 M0–M2 validation.",
+  "creators": [
+    {
+      "name": "Herrera-Marín, Mauricio"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-08-25",
+  "keywords": [
+    "One Health",
+    "respiratory health",
+    "environment",
+    "climate",
+    "air pollution",
+    "memory models",
+    "time series",
+    "external validation"
+  ],
+  "access_right": "open",
+  "license": "TO_BE_SELECTED_AFTER_SOURCE_LICENSE_REVIEW",
+  "notes": "M3 external validation remains deferred until GRD 2025 is available. Update authors, repository URL, related identifiers, license, and manuscript metadata before deposition."
+}
