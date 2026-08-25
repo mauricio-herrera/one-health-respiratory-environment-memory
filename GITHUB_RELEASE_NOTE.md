@@ -11,11 +11,15 @@ reproducibility infrastructure.
 
 See:
 - `README.md`
+- `CITATION.cff`
 - `DATA_RIGHTS_NOTICE.txt`
 - `docs/DATA_OWNERSHIP_INTEGRATION_AND_REUSE.md`
 - `docs/SOURCE_ATTRIBUTIONS.md`
 - `docs/SOURCE_RIGHTS_POLICY.csv`
 - `docs/SINCA_ACADEMIC_USE_NOTE.md`
 
-The archival dataset DOI will be added after the Zenodo v1.0.0 record is
-published.
+Archival dataset DOI:
+
+**10.5281/zenodo.22103139**
+
+https://doi.org/10.5281/zenodo.22103139
