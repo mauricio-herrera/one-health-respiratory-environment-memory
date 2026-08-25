@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this integrated dataset or reproducibility package, please cite it as below."
+title: "One-Health respiratory-environment memory modeling: integrated data and reproducibility release"
+version: 1.0.0
+doi: 10.5281/zenodo.22103139
+date-released: 2026-08-25
+repository-code: "https://github.com/mauricio-herrera/one-health-respiratory-environment-memory"
+url: "https://doi.org/10.5281/zenodo.22103139"
+authors:
+  - family-names: "Herrera-Marín"
+    given-names: "Mauricio"
+    orcid: "https://orcid.org/0000-0002-9604-3077"
+    affiliation: "Research Center on Sustainability and Strategic Resource Management (CISGER), Faculty of Engineering, Universidad del Desarrollo (UDD), Avda. Plaza 680, Santiago, Chile"
+  - family-names: "Rivera"
+    given-names: "Diego"
+    affiliation: "Research Center on Sustainability and Strategic Resource Management (CISGER), Faculty of Engineering, Universidad del Desarrollo (UDD), Avda. Plaza 680, Santiago, Chile"
+  - family-names: "Godoy-Faúndez"
+    given-names: "Alex"
+    affiliation: "Research Center on Sustainability and Strategic Resource Management (CISGER), Faculty of Engineering, Universidad del Desarrollo (UDD), Avda. Plaza 680, Santiago, Chile"
+  - family-names: "Delgado"
+    given-names: "Iris"
+    affiliation: "Centro de Epidemiología y Políticas de Salud (CEPS), Facultad de Medicina Clínica Alemana – Universidad del Desarrollo, Santiago, Chile"
