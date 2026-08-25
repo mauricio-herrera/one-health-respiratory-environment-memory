@@ -35,9 +35,6 @@ until GRD 2025 becomes available.
 No operational EWS, causal, or weather-forecasting claim is supported by this
 release.
 
-See `docs/MANUAL_PUBLICATION_CHECKLIST.md` before public deposition.
-
-
 ## Complete-data publication policy
 
 This release contains the **complete integrated research dataset**. Original
@@ -53,3 +50,9 @@ See:
 - `docs/SOURCE_RIGHTS_POLICY.csv`
 - `docs/SOURCE_ATTRIBUTIONS.md`
 - `docs/SINCA_ACADEMIC_USE_NOTE.md`
+
+## Archival status
+
+GitHub release `v1.0.0` is public and includes the complete frozen release ZIP.
+The archival Zenodo DOI is pending and will be added here after the Zenodo
+record is reserved and published.
