@@ -54,5 +54,17 @@ See:
 ## Archival status
 
 GitHub release `v1.0.0` is public and includes the complete frozen release ZIP.
-The archival Zenodo DOI is pending and will be added here after the Zenodo
-record is reserved and published.
+The archival Zenodo record for this release has DOI:
+
+**10.5281/zenodo.22103139**
+
+Zenodo: https://doi.org/10.5281/zenodo.22103139
+
+## Citation
+
+If you use this integrated dataset or reproducibility package, please cite:
+
+Herrera-Marín, M., Rivera, D., Godoy-Faúndez, A., & Delgado, I. (2026).
+*One-Health respiratory-environment memory modeling: integrated data and reproducibility release* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22103139
+
+Machine-readable citation metadata are provided in `CITATION.cff`.
